@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 ECE student at NIST university <br>🤠 Having interest in computer science <br>🙂‍↕️ Learning web dev, designing, coding <br>💥 I'm a Portrait sketch artist and science model maker.<br>     bkash_sketches is instagram art account.
+🤓 ECE student at NIST university <br>🤠 Having interest in computer science <br>🙂‍↕️ Learning web dev, designing, coding <br>💥 I'm a Portrait sketch artist.<br>     bkash_sketches is instagram art account.
 
 
 ## 🌐 Socials:
